@@ -1,13 +1,13 @@
 🎡 4조 todoList 서비스 🎡
 
 
- 1. 프로젝트 주제: React를 활용한 달력을 통한 Todo-List
+1. 프로젝트 주제: React를 활용한 달력을 통한 Todo-List
 
 2. 팀원 명단: 서영석, 이은지, 변웅섭
 
 3. 팀원별 역할 분담:
       
-      서영석 - Calendar, Todo List 기능 구현.
+      서영석 - React Calendar, Modal 라이브러리 적용
       이은지 - Calendar CSS 구현.
       변웅섭 - Todo List CSS 구현.
 
