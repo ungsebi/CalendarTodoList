@@ -7,8 +7,8 @@
 
 3. 팀원별 역할 분담:
       
-      서영석 - React Calendar, Modal 라이브러리 적용
-      이은지 - Calendar CSS 구현.
+      서영석 - React Calendar, Modal 라이브러리 적용<br>
+      이은지 - Calendar CSS 구현.<br>
       변웅섭 - Todo List CSS 구현.
 
 4. 요구사항:
