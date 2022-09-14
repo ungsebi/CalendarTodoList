@@ -13,9 +13,9 @@
 
 4. 요구사항:
 	
-  (1) Todo List 와 Calendar의 연동.
-  (2) Calendar 내부 날짜 클릭 시 Modal 팝업.
-  (3) 날짜별로 Todo List 에 메모하는 기능 추가.
+  (1) Todo List 와 Calendar의 연동.<br>
+  (2) Calendar 내부 날짜 클릭 시 Modal 팝업.<br>
+  (3) 날짜별로 Todo List 에 메모하는 기능 추가.<br>
   (4) Todo List 에 저장된 정보 노출.
 
 5. 트러블 슈팅
